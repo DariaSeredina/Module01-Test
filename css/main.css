@@ -1,0 +1,32 @@
+body {
+    background-color: ghostwhite;
+}
+h1 {
+    color: rgb(200, 91, 146);
+    font-size: 50px;
+    font-weight: 400;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+p {
+    color: darkgoldenrod;
+    font-size: 23px;
+    text-decoration-line: underline;
+}
+.one {
+    font-size: 20px;
+    color: indianred;
+}
+.two {
+    font-size: 20px;
+    color: lightcoral;
+}
+a {
+    color: lightcoral;
+    font-size: 20px;
+}
+q {
+    font-weight: 700;
+    color: rgb(182, 68, 68);
+}
